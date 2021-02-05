@@ -1,0 +1,11 @@
+# To install Gazebo on Ubuntu and Mac
+$ curl -sSL http://get.gazebosim.org | sh
+
+# To run gazebo
+$ gazebo
+
+# To test gazebo with a robot
+$ gazebo worlds/pioneer2dx.world
+
+
+
